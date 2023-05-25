@@ -6,6 +6,11 @@ public class EjericcioFor {
         // y su condición será que la variable sea igual o menor que 3, se irá incrementando en 1 su valor
         // cada vez que se ejecute y deberá mostrarse por pantalla.
 
-        
+
+
+        for (int numeroFor = 0 ; numeroFor <= 3; numeroFor++){
+            System.out.println("la variable - numeroFor vale: "+ numeroFor);
+
+        }
     }
 }
