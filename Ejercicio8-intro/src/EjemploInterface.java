@@ -19,5 +19,5 @@ class Auto implements Motot{
      public void Frenar(int cuantaVelocdad){
 
      }
-     
+
 }
